@@ -1,0 +1,88 @@
+1. Ping can _________
+a) Measure round-trip time
+b) Report packet loss
+c) Report latency
+d) All of the mentioned
+View Answer Answer: d
+Explanation: PING (Packet Internet Groper) command is the best way to test connectivity between two nodes, whether it is Local Area Network (LAN) or Wide Area Network (WAN). Ping uses ICMP (Internet Control Message Protocol) to communicate to other devices.
+
+
+
+
+2. Ping sweep is a part of _________
+a) Traceroute
+b) Nmap
+c) Route
+d) Ipconfig
+View Answer Answer: b
+Explanation: A ping sweep is a method that can establish a range of IP addresses which map to live hosts and are mostly used by network scanning tools like nmap. A ping sweep is basically a collective ping command execution on a range of IP addresses.
+
+3. ICMP is used in _________
+a) Ping
+b) Traceroute
+c) Ifconfig
+d) Both Ping & Traceroute
+View Answer Answer: d
+Explanation: ICMP stands for Internet Control Message Protocol. ICMP operates over the IP packet to provide error reporting functionality, so in case the node is not active or there is no route, ICMP will be used to report the specific errors for Ping and Traceroute.
+
+4. __________ command is used to manipulate TCP/IP routing table.
+a) route
+b) Ipconfig
+c) Ifconfig
+d) Traceroute
+View Answer Answer: a
+Explanation: The route command is used to view and manipulate the TCP/IP routing table in Windows OS. The manipulations done in the routing table with the help of this command will count as static routes.
+
+
+
+
+5. If you want to find the number of routers between a source and destination, the utility to be used is ___________
+a) route
+b) Ipconfig
+c) Ifconfig
+d) Traceroute
+View Answer Answer: d
+Explanation: Traceroute command is available on Linux OS to find the path i.e. the number of the routers that the packet has to go through to reach the destination. In Windows, Tracert command is used to perform the function.
+
+6. Which of the following is not related to ipconfig in Microsoft Windows?
+a) Display all current TCP/IP network configuration values
+b) Modify  DHCP  settings
+c) Modify DNS settings
+d) Trace the routers in the path to destination
+View Answer Answer: d
+Explanation: The Tracert command is available on Microsoft Windows to find the path i.e. the number of the routers that the packet has to go through to reach its destination.
+
+7. __________ allows checking if a domain is available for registration.
+a) Domain Check
+b) Domain Dossier
+c) Domain Lookup
+d) Domain registers
+View Answer Answer: a
+Explanation: There are billions of domains available for registration on the World Wide Web, and many of them are already registered. So when one wants to register a domain, they need to check whether the domain is available through a domain check.
+
+
+
+
+8. Choose the wrong statement from the following.
+a) Nslookup is used to query a DNS server for DNS data
+b) Ping is used to check connectivity
+c) Pathping combines the functionality of ping with that of route
+d) Ifconfig can configure TCP/IP network interface parameters
+View Answer Answer: c
+Explanation: Pathping combines the functionality of ping with that of traceroute (tracert). The Ping command is used to test connectivity between two nodes and the Tracert/Traceroute command is used to find the path i.e. the number of the routers that the packet has to go through to reach its destination.
+
+Sanfoundry Global Education & Learning Series – Computer Networks.
+To practice all areas of Computer Networks, here is complete set of 1000+ Multiple Choice Questions and Answers.
+
+
+
+
+
+Participate in the Sanfoundry Certification contest to get free Certificate of Merit. Join our social networks below and stay updated with latest contests, videos, internships and jobs!
+
+Telegram | Youtube | LinkedIn | Instagram | Facebook | Twitter | Pinterest
+
+
+Youtube | LinkedIn | Instagram | Facebook | Twitter | Pinterest
+
+« Prev - Computer Networks Questions & Answers – Network Management» Next - Computer Networks Questions & Answers – Ethernet 
